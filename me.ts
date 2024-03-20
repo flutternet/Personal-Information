@@ -1,0 +1,33 @@
+//PERSONAL INFORMATION
+let finame:string="Shameer";
+let lname:string="Ahmed";
+console.log(finame+" "+lname);
+let fatherfname:string="Shafiq";
+let fatherlname:string="Ahmed";
+console.log(fatherfname+" "+fatherlname);
+let age:number=15;
+console.log(age);
+const email:string="shoaib2010a@aptechgdn.net";
+console.log(email);
+const phone:number=923128878543;
+console.log(phone);
+const religion:string="Islam";
+console.log(religion);
+const nationality:string="Pakistani";
+console.log(nationality);
+let isStudent:boolean=true;
+console.log(isStudent);
+let isEmployed:boolean=false;
+console.log(isEmployed);
+let Qualification:string="Matric";
+console.log(Qualification);
+let Hobby:string="create new programs";
+console.log(Hobby);
+let MyGoal:string="I will go to perform Umraah with my Family";
+//Adress
+var Adress:string="H.# C5/99 Old Golimaar";
+console.log(Adress);
+var Area:string="Asif colony";
+console.log(Area);
+var City:string="Karachi";
+console.log(City);

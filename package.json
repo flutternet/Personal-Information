@@ -1,0 +1,12 @@
+{
+  "name": "typescript and node js",
+  "version": "1.0.0",
+  "description": "In this typescript file iprinted My bio data",
+  "main": "me.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shameer Ahmed (00487810)",
+  "license": "ISC"
+}
